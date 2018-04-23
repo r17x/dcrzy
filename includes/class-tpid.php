@@ -25,7 +25,7 @@
  * @since      1.0.0
  * @package    Tpid
  * @subpackage Tpid/includes
- * @author     ri7nz.github.io <24h-support@ri7nz.github.io>
+ * @author     ri7nz.github.io <ri7nz@ri7nz.github.io>
  */
 class Tpid {
 
